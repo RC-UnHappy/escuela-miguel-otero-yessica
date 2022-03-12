@@ -13,8 +13,8 @@ if (strlen(session_id()) < 1)
   <meta name="description" content="E.B.B Miguel Otero Silva - Acarigua, Portuguesa">
   <meta name="author" content="Alexis Cáceres">
   <meta name="keyword" content="Escuela,Básica,Bolivariana,Miguel,Otero,Silva,Acarigua,Portuguesa,Venezuela">
-  <link rel="icon" type="image/jpeg" href="<?=IMAGE_PATH; ?>escudo.png" />
-  <!-- <link rel="icon" type="image/jpeg" href="../public/img/escudo.png" /> -->
+  <link rel="icon" type="image/jpeg" href="<?=IMAGE_PATH; ?>escudo-romulo.jpg" />
+  <!-- <link rel="icon" type="image/jpeg" href="../public/img/escudo-romulo.jpg" /> -->
 
   <title>Escuela Básica - Miguel Otero Silva</title>
 
@@ -58,12 +58,12 @@ if (strlen(session_id()) < 1)
     <a class="navbar-brand" href="/escuela-miguel-otero/vistas/escritorio.php">
       <div class="navbar-brand-full">
         <!-- <i class="fas fa-school" style="font-size: 26px;"></i> -->
-        <img src="<?=IMAGE_PATH; ?>escudo.png" style="height: 40px;">
+        <img src="<?=IMAGE_PATH; ?>escudo-romulo.jpg" style="height: 40px;">
         <em>Escuela M.O.S</em>
       </div>
 
       <!-- <i class="navbar-brand-minimized fas fa-school" style="font-size: 26px;"></i> -->
-      <img class="navbar-brand-minimized" src="<?=IMAGE_PATH; ?>escudo.png" style="height: 40px;">
+      <img class="navbar-brand-minimized" src="<?=IMAGE_PATH; ?>escudo-romulo.jpg" style="height: 40px;">
     </a>
 
     <button class="navbar-toggler sidebar-minimizer brand-minimizer d-md-down-none" type="button" data-toggle="sidebar-lg-show">
